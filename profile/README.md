@@ -8,7 +8,7 @@ pip install "royalegym[all]"
 
 <p align="center">Python 3.12. Training wants an NVIDIA graphics card.</p>
 
-<p align="center"><a href="https://royalegym.github.io/RoyaleGym/">Guide</a> · <a href="https://discord.gg/4D2BS5JBHP">Discord</a> · <a href="https://ko-fi.com/jinxthecat">Ko-fi</a></p>
+<p align="center"><a href="https://royalegym.github.io/RoyaleGym/">Guide</a> · <a href="https://discord.gg/cvRu4nEGXY">Discord</a> · <a href="https://ko-fi.com/jinxthecat">Ko-fi</a></p>
 
 | Repository | What it is |
 |---|---|
